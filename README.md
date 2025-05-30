@@ -24,7 +24,7 @@ A sleek and simple Weather App built using **React** and **OpenWeatherMap API**.
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
-- [Tailwind CSS](https://tailwindcss.com/) *(if used)*
+- [Tailwind CSS](https://tailwindcss.com/) 
 
 ---
 
