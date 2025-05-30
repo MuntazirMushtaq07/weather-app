@@ -8,7 +8,7 @@ import Button from "./components/Button"; // Reusable button
 // Import weather icons
 import { Sun, CloudRain, Snowflake } from "lucide-react"; // Icons for different weather types
 
-const APIKEY = "03c829f71eeaa3fe79692ee99505a96e"; // Your OpenWeatherMap API key
+const APIKEY = "my key"; // Your OpenWeatherMap API key
 
 const WeatherApp = () => {
   // State to store the city name typed by the user
